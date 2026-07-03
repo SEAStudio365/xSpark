@@ -8,11 +8,11 @@ Press **⌘X** to mark files for moving, then **⌘V** to move them to the new l
 
 ## Why xSpark exists
 
-xSpark started as a feature inside **[MenuSpark – Right Click Menu](https://apps.apple.com/tw/app/menuspark-right-click-menu/id6761634857?l=en-GB&mt=12)**, my macOS Finder right-click menu extension app. Due to how macOS Accessibility permissions are scoped for Finder Sync extensions, the global ⌘X/⌘V hotkey feature couldn't reliably coexist with the extension architecture — so it was split out into this standalone, lightweight app.
+xSpark started as a feature inside **[MenuSpark – Right Click Menu](https://apps.apple.com/us/app/menuspark-right-click-menu/id6761634857?l=en-US&mt=12)**, my macOS Finder right-click menu extension app. Due to how macOS Accessibility permissions are scoped for Finder Sync extensions, the global ⌘X/⌘V hotkey feature couldn't reliably coexist with the extension architecture — so it was split out into this standalone, lightweight app.
 
 If you like xSpark, check out **MenuSpark** for a full right-click context menu toolkit for Finder: quick actions, custom menu items, file utilities, and more, directly from your Finder right-click menu.
 
-👉 **[MenuSpark - Right Click Menu on the Mac App Store](https://apps.apple.com/tw/app/menuspark-right-click-menu/id6761634857?l=en-GB&mt=12)**
+👉 **[MenuSpark - Right Click Menu on the Mac App Store](https://apps.apple.com/us/app/menuspark-right-click-menu/id6761634857?l=en-US&mt=12)**
 
 ## Features
 
