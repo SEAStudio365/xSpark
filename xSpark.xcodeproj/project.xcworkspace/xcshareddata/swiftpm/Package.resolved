@@ -1,0 +1,15 @@
+{
+  "originHash" : "6cd2eded0edf36de9f19bd786be93d37e01317c763d237afa230f0075caa8dc4",
+  "pins" : [
+    {
+      "identity" : "lucide-icons-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coolfish52/lucide-icons-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "73c6b4da0b939eff0660c318c26db98acec09d8e"
+      }
+    }
+  ],
+  "version" : 3
+}

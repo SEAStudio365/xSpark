@@ -1,0 +1,12 @@
+# Xcode
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+DerivedData/
+.build/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager (keep Package.resolved, ignore build artifacts)
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
