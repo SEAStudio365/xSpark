@@ -2,6 +2,8 @@
 
 [English](README.md) | 繁體中文
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolfish52)
+
 一款免費開源的 macOS 選單列工具，幫 Finder 補上原生從未支援的 **剪下貼上（⌘X / ⌘V）搬移檔案** 功能。
 
 按 **⌘X** 標記要搬移的檔案，再按 **⌘V** 貼到新位置，操作邏輯就跟 Windows 檔案總管一樣。xSpark 是透過模擬 Finder 原生的「移到這裡」指令來完成搬移，完全原生、安全，不會有自訂檔案操作造成的資料遺失風險。

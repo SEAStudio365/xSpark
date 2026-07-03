@@ -2,6 +2,8 @@
 
 English | [繁體中文](README.zh-TW.md)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolfish52)
+
 A free, open-source macOS menu bar utility that brings **Cut & Paste (⌘X / ⌘V)** to Finder — a feature Finder has never natively supported for moving files.
 
 Press **⌘X** to mark files for moving, then **⌘V** to move them to the new location, just like Windows Explorer. xSpark simulates Finder's native "Move Item Here" action, so it's fully native and safe — no custom file operations, no risk of data loss.
