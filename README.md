@@ -48,6 +48,10 @@ xSpark uses the Carbon Event Hot Key API to register ⌘X/⌘V only when Finder 
 
 No files are moved by custom code — xSpark only triggers Finder's own built-in commands.
 
+## Screenshot
+
+![xSpark screenshot](SC.png)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
