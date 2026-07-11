@@ -106,7 +106,10 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             mainWindow = window
         }
 
-        NSApp.setActivationPolicy(.regular)
+        // Respect the user's Dock-icon preference. An .accessory app can still
+        // show and focus a window; forcing .regular here made the Dock icon
+        // reappear even when "Hide Dock icon" was on.
+        Preferences.shared.applyDockIconPolicy()
         NSApp.activate(ignoringOtherApps: true)
         mainWindow?.makeKeyAndOrderFront(nil)
     }
